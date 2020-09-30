@@ -1,4 +1,5 @@
-# Titanic Survival Prediction via Logistic Regression
+# Titanic Survival Prediction
+### Using Logistic Regression ML Model
 
 A ML model is used for prediction of Passengers in Titanic Datasets using Logistic Regression.
 
